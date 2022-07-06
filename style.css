@@ -71,7 +71,7 @@ a .desktop-logo {
 /* Main content */
 
 .main-content {
-    background-image: url("/Resources/images/back-photo\ 3.jpeg");
+    background-image: url("back-photo\ 3.jpeg");
     background-position: bottom;
     width: 100%;
     background-size: cover;
